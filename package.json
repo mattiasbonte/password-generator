@@ -1,0 +1,23 @@
+{
+    "name": "password-generator",
+    "version": "1.0.0",
+    "description": "Node Password Generation Project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mattiasbonte/password-generator.git"
+    },
+    "keywords": [],
+    "author": "Mattias Bonte",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mattiasbonte/password-generator/issues"
+    },
+    "homepage": "https://github.com/mattiasbonte/password-generator#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
